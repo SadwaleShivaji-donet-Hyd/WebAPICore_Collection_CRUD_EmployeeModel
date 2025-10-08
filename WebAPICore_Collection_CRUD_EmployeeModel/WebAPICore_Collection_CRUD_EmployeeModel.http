@@ -1,0 +1,6 @@
+@WebAPICore_Collection_CRUD_EmployeeModel_HostAddress = http://localhost:5288
+
+GET {{WebAPICore_Collection_CRUD_EmployeeModel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
